@@ -1,0 +1,10 @@
+^D:\MUNI COURSE STUFF\CPP AND OPENGL PRACTICE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/MUNI Course Stuff/CPP and OpenGL practice" "-BD:/MUNI Course Stuff/CPP and OpenGL practice/build" --check-stamp-file "D:/MUNI Course Stuff/CPP and OpenGL practice/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/CMakeFiles/Application.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/CMakeFiles/INSTALL.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/CMakeFiles/ALL_BUILD.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/CMakeFiles/ZERO_CHECK.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/glfw-3.4/CMakeFiles/uninstall.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/glfw-3.4/CMakeFiles/INSTALL.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/glfw-3.4/CMakeFiles/ALL_BUILD.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/glfw-3.4/src/CMakeFiles/glfw.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/glfw-3.4/src/CMakeFiles/update_mappings.dir
+D:/MUNI Course Stuff/CPP and OpenGL practice/build/glfw-3.4/src/CMakeFiles/INSTALL.dir
