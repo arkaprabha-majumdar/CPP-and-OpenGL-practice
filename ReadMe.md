@@ -81,3 +81,5 @@ while(!glfwWindowShouldClose(window))
 ```
 
 # Few Interesting Points
+- The swapbuffers function actually swaps between two 2D imageplanes called buffers, and help to reduce flickering by keeping the other buffer up for the time while the first buffer is rendering.
+
